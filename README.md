@@ -15,6 +15,11 @@ To explore the differences between the execution time of GPU based vector summat
 7. Free device global memory with cudaFree and free host memory allocated with malloc before concluding the program.
 ## Program
 ```
+##program developed by:Sangeetha.K
+##reg.no:212221230085
+```
+
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -153,7 +158,7 @@ int main(int argc, char **argv)
 }
 ```
 ## Output
-![image](https://github.com/Shavedha/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/93427376/5d6fa563-8697-495a-b080-ae5e046b5747)
+![exp1pca (2)](https://github.com/sangeethak15-AI/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/93992063/5c361508-0b78-4d89-bc2d-8416de2d916f)
 
 ## Result
 Thus the difference between the execution configurations of PCA-GPU-based vector summation had been explored successfully.
